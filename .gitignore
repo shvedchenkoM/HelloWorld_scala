@@ -6,10 +6,12 @@
 .history/
 .lib/
 dist/*
-target/
+#target/
 lib_managed/
 src_managed/
+.idea/
 project/boot/
+#project/target/
 project/plugins/project/
 
 # Scala-IDE specific
