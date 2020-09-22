@@ -9,7 +9,6 @@ dist/*
 target/
 lib_managed/
 src_managed/
-.idea/
 project/boot/
 project/target/
 project/plugins/project/
